@@ -1,0 +1,66 @@
+21:45:28 [INFO] Enabled BungeeCord version unknown
+21:45:29 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:45:29 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:45:30 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:45:30 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:45:30 [INFO] Reload complete
+21:45:30 [INFO] Listening on /127.11.0.1:37841
+21:55:49 [INFO] [Zack] <-> InitialHandler has connected
+21:55:49 [INFO] Player 'Zack' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:55:49 [INFO] Player 'Zack' [/127.0.0.1] is using a client at: wcms-public.zacharystrawhun.repl.co
+21:55:49 [INFO] [Zack] <-> ServerConnector [server] has connected
+21:57:34 [INFO] [ViggYigg65] <-> InitialHandler has connected
+21:57:34 [INFO] Player 'ViggYigg65' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:57:34 [INFO] Player 'ViggYigg65' [/127.0.0.1] is using a client at: wcms-public.zacharystrawhun.repl.co
+21:57:34 [INFO] [ViggYigg65] <-> ServerConnector [server] has connected
+21:58:45 [INFO] [ViggYigg65] -> UpstreamBridge has disconnected
+21:58:46 [INFO] [ViggYigg65] <-> DownstreamBridge <-> [server] has disconnected
+21:59:30 [WARNING] [Zack] -> UpstreamBridge - read timed out
+21:59:30 [INFO] [Zack] disconnected with: ReadTimeoutException : null
+21:59:30 [INFO] [Zack] -> UpstreamBridge has disconnected
+21:59:30 [INFO] [Zack] <-> DownstreamBridge <-> [server] has disconnected
+23:09:18 [INFO] Enabled BungeeCord version unknown
+23:09:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+23:09:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+23:09:19 [INFO] Listening websockets on localhost/127.0.0.1:8082
+23:09:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+23:09:20 [INFO] Reload complete
+23:09:20 [INFO] Listening on /127.11.0.1:33609
+00:17:58 [INFO] Enabled BungeeCord version unknown
+00:17:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:17:59 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:17:59 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:18:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:18:00 [INFO] Reload complete
+00:18:00 [INFO] Listening on /127.11.0.1:35573
+00:20:10 [SEVERE] Exception in thread "main" 
+00:20:10 [SEVERE] java.io.IOException: Input/output error
+00:20:10 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:20:10 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:20:10 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:20:10 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:20:17 [INFO] Enabled BungeeCord version unknown
+00:20:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:20:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:20:19 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:20:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:20:20 [INFO] Reload complete
+00:20:20 [INFO] Listening on /127.11.0.1:32841
+00:24:37 [SEVERE] Exception in thread "main" 
+00:24:37 [SEVERE] java.io.IOException: Input/output error
+00:24:37 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+00:24:37 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+00:24:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+00:24:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+00:24:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+00:24:44 [INFO] Enabled BungeeCord version unknown
+00:24:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:24:45 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:24:46 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:24:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:24:47 [INFO] Reload complete
+00:24:47 [INFO] Listening on /127.11.0.1:36455
+00:25:27 [INFO] [ViggVool26] <-> InitialHandler has connected
+00:25:27 [INFO] Player 'ViggVool26' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+00:25:27 [INFO] Player 'ViggVool26' [/127.0.0.1] is using a client at: skoolgq.github.io
+00:25:28 [INFO] [ViggVool26] <-> ServerConnector [server] has connected
